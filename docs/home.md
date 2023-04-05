@@ -1,5 +1,5 @@
 layout: page
 title: "home"
-permalink: /dishie2498.github.io/
+permalink: /about/
 
 # Here I will post my updates on GSoc
